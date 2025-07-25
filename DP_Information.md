@@ -2,7 +2,7 @@
 
 This document presents a comprehensive framework for understanding deep neural networks (DNNs) through theoretical foundations and practical applications. Below is a structured summary of key concepts:
 
-[DP-Information.pdf](./pdf/DP-Information.pdf)
+presentation : [DP-Information.pdf](./pdf/DP-Information.pdf)
 
 ## 1. Introduction & Core Questions
 - **Fundamental challenges**: 
