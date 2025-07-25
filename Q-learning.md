@@ -1,6 +1,6 @@
 # Q-Learning and Policy Optimization Summary
 
-[Q-Learning.pdf](./pdf/Q-Learning.pdf)
+presentation : [Q-Learning.pdf](./pdf/Q-Learning.pdf)
 
 ## 1. Bellman Equation to Q-Learning
 ### Core Equations
