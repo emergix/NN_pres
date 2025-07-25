@@ -17,6 +17,4 @@ Anexes :  [AGI_annexes.pdf](./pdf/AGI_Natixis-annexes.pdf)
 
 In french , 155 slides, it can be done in 3 hours (+ 30 mn pause !)
 
-Deep Learning: The End of the Black Box Era : 
-
- [DP-Information](./DP_Information.md)
+Deep Learning: The End of the Black Box Era : [DP-Information](./DP_Information.md)
