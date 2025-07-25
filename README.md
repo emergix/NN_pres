@@ -9,10 +9,10 @@ Key topics covered include:
 
 For full details, consult the complete PDF document:
 
-part 1 : [AGI_Natixis.pdf](./pdf/AGI_Natixis.pdf)
+part 1 : [AGI.pdf](./pdf/AGI_Natixis.pdf)
 
-part 2 !  [AGI_Natixis-2.pdf](./pdf/AGI_Natixis-2.pdf)
+part 2 !  [AGI-2.pdf](./pdf/AGI_Natixis-2.pdf)
 
-Anexes :  [AGI_Natixis_annexes.pdf](./pdf/AGI_Natixis-annexes.pdf)
+Anexes :  [AGI_annexes.pdf](./pdf/AGI_Natixis-annexes.pdf)
 
 In french , 155 slides, it can be done in 3 hours (+ 30 mn pause !)
