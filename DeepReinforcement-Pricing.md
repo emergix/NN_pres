@@ -1,6 +1,6 @@
 # Deep Reinforcement for Exotic Pricing - Summary
 
-[DeepReinforcement-Pricing.pdf](./pdf/DeepReinforcement-Pricing.pdf)
+presentation : [DeepReinforcement-Pricing.pdf](./pdf/DeepReinforcement-Pricing.pdf)
 
 This document presents Natixis' approach to pricing exotic derivatives using deep reinforcement learning, drawing analogies from computational biology and advanced neural network techniques.
 
