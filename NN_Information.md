@@ -1,5 +1,7 @@
 # Information Theory in Deep Learning: Summary
 
+ presentation : [NN_Information.pdf](./pdf/NN_Information.pdf)
+
 ## Core Concepts
 ### Kullback-Leibler (KL) Divergence
 - **Definition**:  
