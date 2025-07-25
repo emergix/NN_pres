@@ -1,5 +1,7 @@
 # Pricing Exotics with Neural Networks - Summary
 
+presentation : [Exotics_NN_2021.pdf](./pdf/Exotics_NN_2021.pdf)
+
 ## Overview
 This document from Natixis explores using neural networks (NN) to price complex exotic financial derivatives ("AutoCall Yeti-Phoenix"), addressing challenges in traditional Monte Carlo pricing techniques.
 
