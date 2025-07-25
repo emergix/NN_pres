@@ -20,3 +20,7 @@ In french , 155 slides, it can be done in 3 hours (+ 30 mn pause !)
 Deep Learning: The End of the Black Box Era : [DP-Information](./DP_Information.md)
 
 Q-Learning and Policy Optimization : [Q-Learning](./Q-Learning.md)
+
+Deep Learning: The End of the Black Box Era : [NN_Information](./NN_Information.md)
+
+Q-Learning and Policy Optimization : [DeepReinforcement-Pricing](./DeepReinforcement-Pricing.md)
