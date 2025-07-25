@@ -7,6 +7,6 @@ Key topics covered include:
 - The importance of modular design and information-theoretic foundations.
 - Strategic roadmap for AGI initiatives.
 
-For full details, consult the complete PDF document: [AGI_Natixis.pdf](.pdf/AGI_Natixis.pdf)
+For full details, consult the complete PDF document: [AGI_Natixis.pdf](./pdf/AGI_Natixis.pdf)
 
 In french , 155 slides, it can be done in 3 hours (+ 30 mn pause !)
