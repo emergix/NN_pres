@@ -19,4 +19,4 @@ In french , 155 slides, it can be done in 3 hours (+ 30 mn pause !)
 
 Deep Learning: The End of the Black Box Era : 
 
- [DP-Information](./DP-Information.md)
+ [DP-Information](./DP_Information.md)
